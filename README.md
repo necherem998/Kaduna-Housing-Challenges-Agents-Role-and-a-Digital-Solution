@@ -14,12 +14,12 @@ The dashboard was built to answer key business questions ahead of launching a re
 - What factors most strongly influence housing decisions, and how do they vary by income level?
 
 ## Objectives
-- Segment respondents by gender, age, education level, and role (renter, agent, landlord)
-- Visualize pain points, most-requested features, and overall house-hunting experience
-- Track behavioral patterns such as preferred search channels, communication methods, and payment methods
+- Profile the market by gender, age, education level, and role (renter, agent, landlord)
+- Identify the key pain points and unmet needs driving a stressful house-hunting experience
+- Visualize the search, communication, and payment channels people currently rely on
 - Quantify willingness to pay for a rental app among both renters and landlords
-- Cross-analyze decision drivers (income vs. house type, affordability vs. important criteria, search method vs. experience) to support prioritization
-- Enable stakeholders to filter and drill into each theme (Demography, Pain Points, Behavioral Patterns, WTP, Decision Drivers) via dashboard tabs
+- Cross-analyze decision drivers, such as income, house type, and affordability, to highlight what most influences housing choices
+- Enable stakeholders to filter and drill into each theme via dedicated dashboard tabs to support prioritization and go-to-market decisions
 
 ## Insights
 **Demography**

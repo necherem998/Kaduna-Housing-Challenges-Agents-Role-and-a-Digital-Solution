@@ -2,10 +2,8 @@
 
 <img width="964" height="546" alt="image" src="https://github.com/user-attachments/assets/ab18c7a8-49b9-489c-affc-e641a8262506" />
 
-# Housing Rental Market Research Dashboard
-
 ## Introduction
-This Power BI dashboard consolidates survey data from over 1,000 respondents — renters, landlords, and real estate agents — into a single interactive report. It brings together demographic profiles, pain points, behavioral patterns, willingness-to-pay data, and cross-tabulated decision drivers to give a full picture of how people currently search for, rent, and list housing in the market surveyed.
+This Power BI dashboard consolidates survey data from over 1,000 respondents, including renters, landlords, and real estate agents, into a single interactive report. It brings together demographic profiles, pain points, behavioral patterns, willingness-to-pay data, and cross-tabulated decision drivers to give a full picture of how people currently search for, rent, and list housing in the market surveyed.
 
 ## Problem Statement
 The dashboard was built to answer key business questions ahead of launching a rental platform/app, including:
@@ -43,22 +41,22 @@ The dashboard was built to answer key business questions ahead of launching a re
 - Landlords rent out properties mainly through agents (93) and word of mouth (71); social media (8) and online rental platforms (7) are negligible
 
 **Willingness to Pay (WTP)**
-- Most reported rents fall in the 200,000–500,000 range (139), well ahead of 500,000–1,000,000 (30) and over 1,000,000 (8)
-- Estimated renter income is concentrated at 100,000–500,000 (232) and 50,000–100,000 (192), with 143 earning less than 50,000
+- Most reported rents fall in the 200,000 to 500,000 range (139), well ahead of 500,000 to 1,000,000 (30) and over 1,000,000 (8)
+- Estimated renter income is concentrated at 100,000 to 500,000 (232) and 50,000 to 100,000 (192), with 143 earning less than 50,000
 - 105 respondents said yes to paying for a rental app, 55 said it depends on the fee, and only 19 said no
 - 76.54% (137) of landlords would list their property on a rental app, vs. 23.46% (42) who would not
 
 **Decision Drivers**
-- Apartments are the preferred house type across every income band, most strongly in the 100,000–500,000 group (134)
+- Apartments are the preferred house type across every income band, most strongly in the 100,000 to 500,000 group (134)
 - Affordable price and a clean/safe environment consistently rank as the top two decision criteria across all income levels
 - Search experience correlates strongly with channel: agent-led searches were rated stressful 330 times vs. only 87 seamless; word of mouth shows the same skew (145 stressful vs. 23 seamless)
 
 ## Recommendations
-1. **Prioritize a direct contact and messaging feature** — the top requested feature (393 responses) directly addresses the biggest complaint: 80.85% find house hunting stressful, often via agent-mediated channels.
-2. **Invest in a rich property listing experience** — detailed property info, easy search/filters, and high-quality photos/videos are the next three most-requested features, and support the platform's core value proposition.
-3. **Introduce flexible or tiered pricing for the rental app** — with 55 respondents saying "it depends on the fee," a freemium or low-cost entry tier could convert hesitant users into paying ones.
-4. **Design onboarding around phone and in-person touchpoints** — since phone calls (400) and in-person meetings (342) remain the dominant communication preference, the platform should support call/schedule-a-viewing features rather than assuming chat-first behavior.
-5. **Target landlord acquisition aggressively** — 76.54% of landlords are willing to list on a rental app, but only 7 currently use online platforms; this signals a large untapped supply-side opportunity if trust and ease-of-listing are addressed early.
+1. **Prioritize a direct contact and messaging feature.** This is the top requested feature (393 responses) and directly addresses the biggest complaint: 80.85% find house hunting stressful, often via agent-mediated channels.
+2. **Invest in a rich property listing experience.** Detailed property info, easy search/filters, and high-quality photos/videos are the next three most-requested features, and support the platform's core value proposition.
+3. **Introduce flexible or tiered pricing for the rental app.** With 55 respondents saying "it depends on the fee," a freemium or low-cost entry tier could convert hesitant users into paying ones.
+4. **Design onboarding around phone and in-person touchpoints.** Since phone calls (400) and in-person meetings (342) remain the dominant communication preference, the platform should support call/schedule-a-viewing features rather than assuming chat-first behavior.
+5. **Target landlord acquisition aggressively.** 76.54% of landlords are willing to list on a rental app, but only 7 currently use online platforms, signaling a large untapped supply-side opportunity if trust and ease-of-listing are addressed early.
 
 ## Conclusion
-The dashboard consolidates demographic, behavioral, and willingness-to-pay data into a single decision-support tool, revealing a market that is young, tertiary-educated, and currently underserved by digital rental channels. The data shows clear demand for a more direct, transparent, and affordable rental experience — with strong willingness to pay from both renters and landlords — positioning the business to prioritize feature development and go-to-market strategy around the specific pain points and channels identified.
+The dashboard consolidates demographic, behavioral, and willingness-to-pay data into a single decision-support tool, revealing a market that is young, tertiary-educated, and currently underserved by digital rental channels. The data shows clear demand for a more direct, transparent, and affordable rental experience, with strong willingness to pay from both renters and landlords, positioning the business to prioritize feature development and go-to-market strategy around the specific pain points and channels identified.
